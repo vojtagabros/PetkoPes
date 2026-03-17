@@ -2,6 +2,8 @@
 
 A simple, mobile-friendly web app for tracking your dog walks.
 
+**Live demo:** https://vojtagabros.github.io/PetkoPes/
+
 ## Features
 
 - **Walk Timer** – Start, pause, resume, and finish walks with a real-time timer
